@@ -13,9 +13,3 @@ run the file using command to see the result
 and run it command below to see how hard the GC work
 
 > node --trace-gc performance.mjs
-
-to improve ourself lets learn more about javascript
-this lecture can be watch for free after register
-
-> https://frontendmasters.com/courses/algorithms/
-> he works for NETFLIX as Senior Performance Engineer
